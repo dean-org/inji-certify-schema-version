@@ -21,6 +21,7 @@ on:
       - MOSIP*
       - release*
       - INJICERT-*
+      - feature/credential-schema-versioning
 
 jobs:
   build-maven-inji-certify:
