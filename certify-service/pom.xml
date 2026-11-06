@@ -47,11 +47,11 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-        <dependency>
+        <!-- <dependency>
             <groupId>com.nimbusds</groupId>
             <artifactId>nimbus-jose-jwt</artifactId>
             <version>9.41.2</version>
-        </dependency>
+        </dependency> -->
         <!-- templating dependencies -->
         <dependency>
             <groupId>org.apache.velocity</groupId>
